@@ -333,7 +333,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   distanceThreshold: 0.15
-  isGrounded: 0
+  isGrounded: 1
 --- !u!1 &1593727746557118
 GameObject:
   m_ObjectHideFlags: 0
@@ -2385,6 +2385,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1193905436460217525}
     m_Modifications:
+    - target: {fileID: 527670713686456049, guid: 27c7a3acafd55484499d080845dec2d8, type: 3}
+      propertyPath: m_text
+      value: Pausa
+      objectReference: {fileID: 0}
     - target: {fileID: 527670713827040744, guid: 27c7a3acafd55484499d080845dec2d8, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
