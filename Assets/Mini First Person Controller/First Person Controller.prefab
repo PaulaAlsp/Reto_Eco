@@ -593,6 +593,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   puntosPlayerActual: 0
+  verPuntos: {fileID: 2110224288667828851}
 --- !u!1 &1182280084333409063
 GameObject:
   m_ObjectHideFlags: 0
@@ -1304,7 +1305,7 @@ GameObject:
   - component: {fileID: 2882309177788175261}
   - component: {fileID: 58053698097294157}
   m_Layer: 0
-  m_Name: Image (1)
+  m_Name: Puntaje
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1644,7 +1645,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 0
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

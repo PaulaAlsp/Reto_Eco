@@ -5004,6 +5004,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1913729437}
     m_Modifications:
+    - target: {fileID: 623598928745549390, guid: e187d02cd6be4384f9ae7e8d96daaaca, type: 3}
+      propertyPath: verPuntos
+      value: 
+      objectReference: {fileID: 1060872378}
     - target: {fileID: 3742429297398257490, guid: e187d02cd6be4384f9ae7e8d96daaaca, type: 3}
       propertyPath: m_Name
       value: CristalSolar (8)
@@ -5066,6 +5070,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1913729437}
     m_Modifications:
+    - target: {fileID: 623598928745549390, guid: e187d02cd6be4384f9ae7e8d96daaaca, type: 3}
+      propertyPath: verPuntos
+      value: 
+      objectReference: {fileID: 1060872378}
     - target: {fileID: 3742429297398257490, guid: e187d02cd6be4384f9ae7e8d96daaaca, type: 3}
       propertyPath: m_Name
       value: CristalSolar (1)
@@ -5140,6 +5148,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1913729437}
     m_Modifications:
+    - target: {fileID: 623598928745549390, guid: e187d02cd6be4384f9ae7e8d96daaaca, type: 3}
+      propertyPath: verPuntos
+      value: 
+      objectReference: {fileID: 1060872378}
     - target: {fileID: 3742429297398257490, guid: e187d02cd6be4384f9ae7e8d96daaaca, type: 3}
       propertyPath: m_Name
       value: CristalSolar (7)
@@ -5400,12 +5412,31 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 559911374275952912, guid: 11aaea5348574644a9eb4f4504fcce3f, type: 3}
+      propertyPath: verPuntos
+      value: 
+      objectReference: {fileID: 1060872378}
+    - target: {fileID: 2110224288667828851, guid: 11aaea5348574644a9eb4f4504fcce3f, type: 3}
+      propertyPath: m_text
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8749260970513287746, guid: 11aaea5348574644a9eb4f4504fcce3f, type: 3}
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: 21300000, guid: e7719d45a1e71854a887ce661b0ba538, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 11aaea5348574644a9eb4f4504fcce3f, type: 3}
+--- !u!114 &1060872378 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2110224288667828851, guid: 11aaea5348574644a9eb4f4504fcce3f, type: 3}
+  m_PrefabInstance: {fileID: 1060872377}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1186557067
 GameObject:
   m_ObjectHideFlags: 0
@@ -5866,6 +5897,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1913729437}
     m_Modifications:
+    - target: {fileID: 623598928745549390, guid: e187d02cd6be4384f9ae7e8d96daaaca, type: 3}
+      propertyPath: verPuntos
+      value: 
+      objectReference: {fileID: 1060872378}
     - target: {fileID: 3742429297398257490, guid: e187d02cd6be4384f9ae7e8d96daaaca, type: 3}
       propertyPath: m_Name
       value: CristalSolar (3)
@@ -6022,6 +6057,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1913729437}
     m_Modifications:
+    - target: {fileID: 623598928745549390, guid: e187d02cd6be4384f9ae7e8d96daaaca, type: 3}
+      propertyPath: verPuntos
+      value: 
+      objectReference: {fileID: 1060872378}
     - target: {fileID: 3742429297398257490, guid: e187d02cd6be4384f9ae7e8d96daaaca, type: 3}
       propertyPath: m_Name
       value: CristalSolar (4)
@@ -6084,6 +6123,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1913729437}
     m_Modifications:
+    - target: {fileID: 623598928745549390, guid: e187d02cd6be4384f9ae7e8d96daaaca, type: 3}
+      propertyPath: verPuntos
+      value: 
+      objectReference: {fileID: 1060872378}
     - target: {fileID: 3742429297398257490, guid: e187d02cd6be4384f9ae7e8d96daaaca, type: 3}
       propertyPath: m_Name
       value: CristalSolar (5)
@@ -6231,6 +6274,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1913729437}
     m_Modifications:
+    - target: {fileID: 623598928745549390, guid: e187d02cd6be4384f9ae7e8d96daaaca, type: 3}
+      propertyPath: verPuntos
+      value: 
+      objectReference: {fileID: 1060872378}
     - target: {fileID: 3742429297398257490, guid: e187d02cd6be4384f9ae7e8d96daaaca, type: 3}
       propertyPath: m_Name
       value: CristalSolar (6)
@@ -6293,6 +6340,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1913729437}
     m_Modifications:
+    - target: {fileID: 623598928745549390, guid: e187d02cd6be4384f9ae7e8d96daaaca, type: 3}
+      propertyPath: verPuntos
+      value: 
+      objectReference: {fileID: 1060872378}
     - target: {fileID: 3742429297398257490, guid: e187d02cd6be4384f9ae7e8d96daaaca, type: 3}
       propertyPath: m_Name
       value: CristalSolar (2)
@@ -6412,6 +6463,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1913729437}
     m_Modifications:
+    - target: {fileID: 623598928745549390, guid: e187d02cd6be4384f9ae7e8d96daaaca, type: 3}
+      propertyPath: verPuntos
+      value: 
+      objectReference: {fileID: 1060872378}
     - target: {fileID: 3742429297398257490, guid: e187d02cd6be4384f9ae7e8d96daaaca, type: 3}
       propertyPath: m_Name
       value: CristalSolar

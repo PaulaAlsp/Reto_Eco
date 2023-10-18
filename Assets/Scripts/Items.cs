@@ -6,6 +6,7 @@ public class Items : MonoBehaviour
 {
 
     [SerializeField] int puntos;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -15,7 +16,7 @@ public class Items : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
 
